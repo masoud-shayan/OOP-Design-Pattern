@@ -1,0 +1,27 @@
+﻿Use the Builder Pattern to encapsulate the construction of
+a product and allow it to be constructed in steps.
+
+
+
+Builder is a creational design pattern, which allows constructing complex objects step by step.
+
+
+
+It’s especially useful when you need to create an object with lots of possible configuration options.
+
+
+
+
+Separate the construction of a complex object from its representation 
+so that the same construction process can create different representations
+
+
+
+it is used to construct a complex object step by step and the final step returns the object. Also, the process of constructing 
+an object should be generic so that it can be used to create different representations of the same object.
+
+
+Builder pattern is a good choice when designing classes whose constructors have more than a handful of parameters.
+
+Consider builder pattern when faced with many constructor parameters, some of which are also optional. Using this code becomes 
+much easier to read and write as compared to the traditional constructor pattern.

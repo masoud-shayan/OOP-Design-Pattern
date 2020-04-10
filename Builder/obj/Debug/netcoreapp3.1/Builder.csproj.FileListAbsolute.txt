@@ -1,0 +1,13 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CopyComplete
