@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.pdb

@@ -1,0 +1,28 @@
+﻿The Factory Method pattern suggests that you replace direct object construction calls (using the new operator) with calls 
+to a special factory method. Don’t worry: the objects are still created via the new operator, but it’s being called from
+within the factory method. Objects returned by a factory method are often referred to as “products.”
+
+
+
+
+A Factory Pattern or Factory Method Pattern says that just define an interface or abstract class for creating an object but 
+let the subclasses decide which class to instantiate. In other words, subclasses are responsible to create the instance of the class.
+
+
+The Factory Method Pattern is also known as Virtual Constructor.
+
+
+Factory Method Pattern allows the sub-classes to choose the type of objects to create.
+
+
+
+
+The Factory Method pattern abstracts the decision-making process from the calling class
+
+
+
+Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a 
+class defer instantiation to subclasses.
+
+
+A factory is an object that creates objects without the use of a constructor.

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alekhandr0\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alekhandr0\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Factory.676878535.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Factory" t="IncludeFlat">
+      <e p="Factory" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Circle.cs" t="Include" />
+        <e p="CircleFactory.cs" t="Include" />
+        <e p="Description.txt" t="Include" />
+        <e p="Factory.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Factory.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Rectangle.cs" t="Include" />
+        <e p="RectangleFactory.cs" t="Include" />
+        <e p="Shape.cs" t="Include" />
+        <e p="ShapeCreator.cs" t="Include" />
+        <e p="ShapeFactory.cs" t="Include" />
+        <e p="ShapeType.cs" t="Include" />
+        <e p="Square.cs" t="Include" />
+        <e p="SquareFactory.cs" t="Include" />
+      </e>
+      <e p="Factory.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
