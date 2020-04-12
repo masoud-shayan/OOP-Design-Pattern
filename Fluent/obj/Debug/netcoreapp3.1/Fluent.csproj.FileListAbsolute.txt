@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\bin\Debug\netcoreapp3.1\Fluent.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\bin\Debug\netcoreapp3.1\Fluent.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\bin\Debug\netcoreapp3.1\Fluent.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\bin\Debug\netcoreapp3.1\Fluent.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\bin\Debug\netcoreapp3.1\Fluent.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\bin\Debug\netcoreapp3.1\Fluent.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\obj\Debug\netcoreapp3.1\Fluent.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\obj\Debug\netcoreapp3.1\Fluent.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\obj\Debug\netcoreapp3.1\Fluent.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\obj\Debug\netcoreapp3.1\Fluent.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Fluent\obj\Debug\netcoreapp3.1\Fluent.pdb

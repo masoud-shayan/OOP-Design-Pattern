@@ -1,0 +1,6 @@
+﻿An interface is said to be fluent if it returns itself from one or more of its methods. This allows clients to
+chain calls together
+
+
+The Fluent Interfaces and Method chaining are related to each other. Or we can say that one is a concept and the
+other one is its implementation.
