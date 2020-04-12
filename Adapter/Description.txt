@@ -1,0 +1,34 @@
+﻿Adapter pattern is placed under the category of structural design pattern and this pattern is used to
+allow communication between two incompatible interfaces by acting as a bridge.
+
+
+
+This pattern involves a single class called adapter which is responsible for communication between two
+independent or incompatible interfaces.
+
+
+Adapter pattern is also called Translator pattern or Wrapper pattern.
+
+
+
+Adapter is a structural design pattern, which allows incompatible objects to collaborate.
+
+
+
+The Adapter pattern is pretty common in C# code. It’s very often used in systems based on some legacy code.
+In such cases, Adapters make legacy code with modern classes
+
+
+the Adapter pattern which maps the interface of one class onto another so that they can work together. 
+These incompatible classes may come from different libraries or frameworks.
+
+
+This pattern is especially useful when attempting to adapt to an interface that cannot be refactored.
+
+
+
+When you have a class that needs to utilize a particular interface, and you have a library that includes
+the functionality you need, but it doesn’t use the interface that you require. You can achieve the reuse
+of that library’s code by creating an Adapter class. This adapter class sits between your client code,
+and the code that’s in this library, and adapts one interface to the other. The Adapter design pattern
+is one of the most common, and most useful patterns available to us as software developers.

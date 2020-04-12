@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
