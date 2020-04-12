@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb

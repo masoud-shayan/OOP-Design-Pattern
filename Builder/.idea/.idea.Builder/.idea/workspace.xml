@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e61f08cb-cb51-4e3f-9ec5-1cf79d613c1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/.idea.Factory/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/.idea.Factory/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/.idea.Factory/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/.idea.Factory/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Builder/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +38,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1aMD2p4D1QpJeybXY8AFOdLJKZG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -85,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586536393602</updated>
-      <workItem from="1586536449829" duration="7636000" />
+      <workItem from="1586536449829" duration="9202000" />
     </task>
     <servers />
   </component>
@@ -122,10 +120,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="88" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586551128977" />
-    <state x="275" y="95" key="Rider.ProjectTemplateDialog.Size" timestamp="1586552856402">
+    <state x="275" y="95" key="Rider.ProjectTemplateDialog.Size" timestamp="1586681964089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1586552856402" />
+    <state x="275" y="95" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1586681964089" />
     <state x="517" y="63" key="RiderGenerateDialog" timestamp="1586537238926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
