@@ -1,0 +1,16 @@
+﻿The null object pattern helps us to write a clean code avoiding null checks where ever possible.
+
+
+It is not possible to implement null object pattern in every scenario. Sometimes, it is likely to 
+return a null reference and perform some null check
+
+
+
+A null object is also known as a Stub, an Active Nothing or an Active Null. It helps our program logic to get rid of null 
+checks where ever possible. We all know, that we can not call methods on a null reference as it results in a NullReferenceException.
+The null object pattern provides a non-functional object in place of a null reference and therefore allows methods to be called on it.
+
+
+
+In object-oriented computer programming, a null object is an object with no referenced value or with defined neutral ("null") 
+behavior. The null object design pattern describes the uses of such objects and their behavior (or lack thereof).

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alekhandr0\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alekhandr0\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_NullObject.2071971371.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\NullObject" t="IncludeRecursive">
+      <e p="AppleIPhone.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Description.txt" t="Include" />
+      <e p="IMobile.cs" t="Include" />
+      <e p="MobileRepository.cs" t="Include" />
+      <e p="NullMobile.cs" t="Include" />
+      <e p="NullObject.csproj" t="IncludeRecursive" />
+      <e p="NullObject.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="NullObject.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="SamsungGalaxy.cs" t="Include" />
+      <e p="SonyXperia.cs" t="Include" />
+    </e>
+  </component>
+</project>
