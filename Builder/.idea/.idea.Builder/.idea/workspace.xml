@@ -51,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RunManager">
     <configuration name="Builder" type="DotNetProject" factoryName=".NET Project">
@@ -83,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586536393602</updated>
-      <workItem from="1586536449829" duration="9818000" />
+      <workItem from="1586536449829" duration="10630000" />
     </task>
     <servers />
   </component>
@@ -128,10 +128,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="63" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1586537238926" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1586551932027">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1586734047345">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586551932027" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586734047345" />
     <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586551243489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

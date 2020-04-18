@@ -32,3 +32,7 @@ the functionality you need, but it doesn’t use the interface that you require.
 of that library’s code by creating an Adapter class. This adapter class sits between your client code,
 and the code that’s in this library, and adapts one interface to the other. The Adapter design pattern
 is one of the most common, and most useful patterns available to us as software developers.
+
+
+
+The net benefit of creating an adapter class is that you can convert a third-party reference into a first-party reference
