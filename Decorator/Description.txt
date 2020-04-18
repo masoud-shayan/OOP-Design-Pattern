@@ -1,0 +1,46 @@
+﻿The Decorator pattern is excellent for ensuring that each class has a single responsibility
+
+
+
+A Decorator is a structural design pattern that allows us to extend the behavior of objects by placing these objects
+into a special wrapper class. The Decorator design pattern is quite popular in C# due to the fact that it helps us
+dynamically add behaviors to the wrapped objects.
+
+
+The structure of this pattern consists of a Component class and a Concrete Component class from one part and a Decorator 
+class and a Concrete Decorator class on the other side. The Concrete Decorator class is going to add additional behavior 
+to our Concrete Component.
+
+
+
+Decorator is a Conceptual pattern that allows adding new behaviors to objects dynamically by placing them inside
+special wrapper objects.
+
+
+
+Using decorators you can wrap objects countless number of times since both target objects and decorators follow the 
+same interface. The resulting object will get a stacking behavior of all wrappers.
+
+
+
+Identification: Decorator can be recognized by creation methods or constructor that accept objects of the same class
+or interface as a current class.
+
+
+
+Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to 
+subclassing for extending functionality.
+
+
+
+The Decorator design pattern seeks to add new functionality to an existing object without changing that object's definition.
+
+In other words, it wants to add new responsibilities to an individual instance of an object, without adding those
+responsibilities to the class of objects. Decorator can be thought of as an alternative to inheritance.
+
+
+
+Our goal is to allow classes to be easily extended to
+incorporate new behavior without modifying existing code.
+
+

@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\OOP Design Patterns\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb
