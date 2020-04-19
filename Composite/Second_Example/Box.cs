@@ -41,7 +41,7 @@ namespace Composite
             Name = "";
             foreach (var box in _boxes)
             {
-                Name += " , " + box.GetTotalName();
+                Name += "  " + box.GetTotalName();
             }
 
             return Name;
