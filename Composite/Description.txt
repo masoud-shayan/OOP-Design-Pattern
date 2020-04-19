@@ -1,0 +1,27 @@
+﻿Composite is a structural design pattern that allows composing objects into a tree-like structure and work with
+the it as if it was a singular object.
+
+
+
+It’s often used to represent hierarchies of user interface components or the code that works with graphs.
+
+
+Identification: The composite is easy to recognize by behavioral methods taking an instance of the same
+abstract/interface type into a tree structure.
+
+
+Composite pattern is used when we need to treat a group of objects and a single object in the same way. 
+Composite pattern composes objects in term of a tree structure to represent part as well as whole hierarchies.
+
+
+
+the composite pattern is a partitioning design pattern. The composite pattern describes a group of objects that
+are treated the same way as a single instance of the same type of object.
+
+
+
+The intent of a composite is to "compose" objects into tree structures to represent part-whole hierarchies.
+Implementing the composite pattern lets clients treat individual objects and compositions uniformly.
+
+
+Using the Composite pattern makes sense only when the core model of your app can be represented as a tree.
