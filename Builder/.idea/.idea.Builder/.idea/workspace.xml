@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e61f08cb-cb51-4e3f-9ec5-1cf79d613c1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Composite/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Builder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/bin/Debug/netcoreapp3.1/Composite.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/bin/Debug/netcoreapp3.1/Composite.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/bin/Debug/netcoreapp3.1/Composite.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/bin/Debug/netcoreapp3.1/Composite.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/obj/Debug/netcoreapp3.1/Composite.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/obj/Debug/netcoreapp3.1/Composite.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/obj/Debug/netcoreapp3.1/Composite.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/obj/Debug/netcoreapp3.1/Composite.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/IToyBuilder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Toy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Composite/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToyABuilder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToyBBuilder.cs" root0="FORCE_HIGHLIGHTING" />
